@@ -1,5 +1,5 @@
 <template>
-  <Header title="骤雨重山图床" desc="拒绝流量劫持，全面使用HTTPS" />
+  <Header title="ikun的图床" desc="卤出鸡脚了吧！树枝666，小黑子 苏珊，食不食油饼？" />
   <main><RouterView /></main>
   <Footer />
   <Toaster />
